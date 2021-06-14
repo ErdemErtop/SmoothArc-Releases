@@ -168,7 +168,7 @@ namespace SmoothArc
         {
             try
             {
-                using (var manager = UpdateManager.GitHubUpdateManager("https://github.com/ErdemErtop/SmoothAcademy/blob/main/Releases"))
+                using (var manager = UpdateManager.GitHubUpdateManager("https://github.com/ErdemErtop/SmoothArc/releases/latest"))
                 {
                     using (var res = manager.Result)
                     {

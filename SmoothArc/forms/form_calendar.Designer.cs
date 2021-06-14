@@ -80,501 +80,182 @@ namespace SmoothArc.forms
             // 
             // 
             // 
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
-#pragma warning disable CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
             this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
-#pragma warning restore CS0618 // 'AppointmentLabel.AppointmentLabel(Color, string, string)' is obsolete: 'Use AppointmentLabelCollection.CreateNewLabel instead.'
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.SystemColors.Window, "None", "&None"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(194)))), ((int)(((byte)(190))))), "Important", "&Important"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(213)))), ((int)(((byte)(255))))), "Business", "&Business"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(244)))), ((int)(((byte)(156))))), "Personal", "&Personal"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(228)))), ((int)(((byte)(199))))), "Vacation", "&Vacation"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(206)))), ((int)(((byte)(147))))), "Must Attend", "Must &Attend"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(244)))), ((int)(((byte)(255))))), "Travel Required", "&Travel Required"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(219)))), ((int)(((byte)(152))))), "Needs Preparation", "&Needs Preparation"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(207)))), ((int)(((byte)(233))))), "Birthday", "&Birthday"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(233)))), ((int)(((byte)(223))))), "Anniversary", "&Anniversary"));
+            this.schedulerDataStorage1.Appointments.Labels.Add(new DevExpress.XtraScheduler.AppointmentLabel(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(247)))), ((int)(((byte)(165))))), "Phone Call", "Phone &Call"));
             // 
             // barManager1
             // 
@@ -645,7 +326,8 @@ namespace SmoothArc.forms
             this.schedulerControl1.Appearance.Selection.Options.UseFont = true;
             this.schedulerControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.schedulerControl1.DataStorage = this.schedulerDataStorage1;
-            this.schedulerControl1.Location = new System.Drawing.Point(27, 30);
+            this.schedulerControl1.Location = new System.Drawing.Point(86, 85);
+            this.schedulerControl1.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.schedulerControl1.MenuManager = this.barManager1;
             this.schedulerControl1.Name = "schedulerControl1";
             this.schedulerControl1.OptionsCustomization.AllowAppointmentConflicts = DevExpress.XtraScheduler.AppointmentConflictsMode.Forbidden;
@@ -664,7 +346,7 @@ namespace SmoothArc.forms
             this.schedulerControl1.OptionsView.FirstDayOfWeek = DevExpress.XtraScheduler.FirstDayOfWeek.Monday;
             this.schedulerControl1.PaintStyleName = "Skin";
             this.schedulerControl1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.schedulerControl1.Size = new System.Drawing.Size(591, 430);
+            this.schedulerControl1.Size = new System.Drawing.Size(1872, 1080);
             this.schedulerControl1.Start = new System.DateTime(2021, 2, 18, 0, 0, 0, 0);
             this.schedulerControl1.TabIndex = 9;
             this.schedulerControl1.Text = "schedulerControl1";
@@ -712,15 +394,17 @@ namespace SmoothArc.forms
             this.barDockControl1.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControl1.Location = new System.Drawing.Point(0, 0);
             this.barDockControl1.Manager = this.barManager1;
-            this.barDockControl1.Size = new System.Drawing.Size(675, 24);
+            this.barDockControl1.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControl1.Size = new System.Drawing.Size(2138, 24);
             // 
             // barDockControl2
             // 
             this.barDockControl2.CausesValidation = false;
             this.barDockControl2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.barDockControl2.Location = new System.Drawing.Point(0, 488);
+            this.barDockControl2.Location = new System.Drawing.Point(0, 1100);
             this.barDockControl2.Manager = this.barManager1;
-            this.barDockControl2.Size = new System.Drawing.Size(675, 0);
+            this.barDockControl2.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControl2.Size = new System.Drawing.Size(2138, 0);
             // 
             // barDockControl3
             // 
@@ -728,15 +412,17 @@ namespace SmoothArc.forms
             this.barDockControl3.Dock = System.Windows.Forms.DockStyle.Left;
             this.barDockControl3.Location = new System.Drawing.Point(0, 24);
             this.barDockControl3.Manager = this.barManager1;
-            this.barDockControl3.Size = new System.Drawing.Size(0, 464);
+            this.barDockControl3.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControl3.Size = new System.Drawing.Size(0, 1076);
             // 
             // barDockControl4
             // 
             this.barDockControl4.CausesValidation = false;
             this.barDockControl4.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControl4.Location = new System.Drawing.Point(675, 24);
+            this.barDockControl4.Location = new System.Drawing.Point(2138, 24);
             this.barDockControl4.Manager = this.barManager1;
-            this.barDockControl4.Size = new System.Drawing.Size(0, 464);
+            this.barDockControl4.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControl4.Size = new System.Drawing.Size(0, 1076);
             // 
             // switchToWorkWeekViewItem1
             // 
@@ -859,15 +545,17 @@ namespace SmoothArc.forms
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 24);
             this.barDockControlTop.Manager = null;
-            this.barDockControlTop.Size = new System.Drawing.Size(675, 0);
+            this.barDockControlTop.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControlTop.Size = new System.Drawing.Size(2138, 0);
             // 
             // barDockControlBottom
             // 
             this.barDockControlBottom.CausesValidation = false;
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.barDockControlBottom.Location = new System.Drawing.Point(0, 488);
+            this.barDockControlBottom.Location = new System.Drawing.Point(0, 1100);
             this.barDockControlBottom.Manager = null;
-            this.barDockControlBottom.Size = new System.Drawing.Size(675, 0);
+            this.barDockControlBottom.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControlBottom.Size = new System.Drawing.Size(2138, 0);
             // 
             // barDockControlLeft
             // 
@@ -875,15 +563,17 @@ namespace SmoothArc.forms
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.barDockControlLeft.Location = new System.Drawing.Point(0, 24);
             this.barDockControlLeft.Manager = null;
-            this.barDockControlLeft.Size = new System.Drawing.Size(0, 464);
+            this.barDockControlLeft.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 1076);
             // 
             // barDockControlRight
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(675, 24);
+            this.barDockControlRight.Location = new System.Drawing.Point(2138, 24);
             this.barDockControlRight.Manager = null;
-            this.barDockControlRight.Size = new System.Drawing.Size(0, 464);
+            this.barDockControlRight.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 1076);
             // 
             // layoutBar1
             // 
@@ -923,10 +613,10 @@ namespace SmoothArc.forms
             // 
             // form_calendar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(234)))), ((int)(((byte)(234)))));
-            this.ClientSize = new System.Drawing.Size(675, 488);
+            this.ClientSize = new System.Drawing.Size(2138, 1100);
             this.Controls.Add(this.schedulerControl1);
             this.Controls.Add(this.barDockControlLeft);
             this.Controls.Add(this.barDockControlRight);
@@ -937,6 +627,7 @@ namespace SmoothArc.forms
             this.Controls.Add(this.barDockControl2);
             this.Controls.Add(this.barDockControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.Name = "form_calendar";
             this.Text = "Takvim";
             this.Load += new System.EventHandler(this.form_calendar_Load);
